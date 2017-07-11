@@ -8,3 +8,5 @@ Example:
 
 	Because nums[0] + nums[1] = 2 + 7 = 9,
 	```return [0, 1].```
+
+Try for yourself at https://leetcode.com/problems/two-sum/ 	
